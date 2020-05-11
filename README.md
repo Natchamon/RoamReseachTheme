@@ -1,4 +1,4 @@
-This repository contain my roam research theme which are modified theme from others.
+This repository contain my roam research themes which are modified theme from others.
 
 It can be easily used with Stylus (Browser Extension)
 
