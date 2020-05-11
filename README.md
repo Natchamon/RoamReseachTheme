@@ -1,5 +1,9 @@
 This repository contain my roam research themes which are modified theme from others.
 
+This theme is a combination of 
+1. [Split Screen Css](https://davidcrandallwrites.com/split-screen-and-rtl-custom-css-scripts-for-roam/)
+2. [Magazine Theme](https://github.com/Richard-Meadows/roam-magazine-theme)
+
 It can be easily used with Stylus (Browser Extension)
 
 There are 4 files named 
