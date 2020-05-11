@@ -10,11 +10,9 @@ There are 4 files named
 
 The name of the file refer to the style of refered blocks in Roam.
 
-To see example, please look into the example files.
-1. Example of White and Curve
-2. Example of White and Straight
-3. Example of Color and Curve
-4. Example of Color and Straight
+For example White and Curve means the background color of refered blocks which is originally blue will disappear and curves mean the line below heading of refered block will have a curve at the end of the line.
+
+To see example, please take a look at my blog.
 
 These files are written in css in order to override Roam Research.
 
