@@ -137,6 +137,7 @@ a {
     border-radius: 10px;
     padding-left: 5px;
 	padding-right: 5px;
+font-family: 'EB Garamond', serif; 
 }
 
 /* File Tree Style */
