@@ -1,5 +1,7 @@
 This repository contain my roam research themes which are modified theme from others.
 
+Step by step installation [here](https://natchamon.wordpress.com/2020/05/11/myroamresearchtheme/).
+
 This theme is a combination of 
 1. [Split Screen Css](https://davidcrandallwrites.com/split-screen-and-rtl-custom-css-scripts-for-roam/)
 2. [Magazine Theme](https://github.com/Richard-Meadows/roam-magazine-theme)
